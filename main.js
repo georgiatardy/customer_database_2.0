@@ -1,4 +1,3 @@
-console.log("Hey there!")
 
 for (var i = 0; i < customers.results.length; i++) {
   let mainPage = document.querySelector('body');
@@ -27,7 +26,7 @@ for (var i = 0; i < customers.results.length; i++) {
 
 
 
-
+//======Previous Code used prior to Template Literals==========//
 
 // (function() {
 //   'use strict';
